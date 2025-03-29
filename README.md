@@ -1,4 +1,6 @@
-# Test
+# Практика по Github
+## ИСп-1-23в ТруновЕВ
+Из прошлой работы я узнал следующие git команды:
 * Git config -global user.name
 *	Git config -global user.email
 *	Git init
