@@ -9,7 +9,7 @@
 *	Git reset
 *	Git commit
 *	Git log
-  Вот пример кода на Python:
+#Вот пример кода на Python:
 
 ```python
 def hello_world():
